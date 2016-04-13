@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./zoognosia00fiscgoog/zoognosia00fiscgoog_0317.png"; bbox 0 0 4916 6254; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 930 4416 1803 4598">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 930 4416 1803 4598">
+     <span class='ocr_line' id='line_1_1' title="bbox 930 4416 1803 4598; baseline 0.092 -116"><span class='ocrx_word' id='word_1_1' title='bbox 930 4416 1089 4494; x_wconf 58' lang='lat' dir='ltr'><strong>Acutum</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1120 4428 1260 4511; x_wconf 77' lang='lat' dir='ltr'>seminis</span> <span class='ocrx_word' id='word_1_3' title='bbox 1316 4476 1352 4526; x_wconf 79' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1418 4447 1555 4533; x_wconf 58' lang='lat' dir='ltr'><strong>*picem</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1610 4481 1803 4598; x_wconf 57' lang='lat' dir='ltr'><strong>⁰0nu{vqn·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 951 4515 1477 4684">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 951 4515 1477 4684">
+     <span class='ocr_line' id='line_1_2' title="bbox 951 4515 1477 4615; baseline 0.091 -36"><span class='ocrx_word' id='word_1_6' title='bbox 951 4515 1089 4584; x_wconf 69' lang='lat' dir='ltr'><strong>nutri·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1130 4542 1347 4615; x_wconf 64' lang='lat' dir='ltr'><strong>¹punem-ius</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1414 4552 1477 4604; x_wconf 70' lang='lat'><strong>¹⁶⁸·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 951 4605 1173 4684; baseline 0.099 -21"><span class='ocrx_word' id='word_1_9' title='bbox 951 4605 1173 4684; x_wconf 69' lang='lat' dir='ltr'><strong>mondum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1433 4643 1705 4746">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1433 4643 1705 4746">
+     <span class='ocr_line' id='line_1_4' title="bbox 1433 4643 1705 4746; baseline 0.121 -33"><span class='ocrx_word' id='word_1_10' title='bbox 1433 4643 1470 4714; x_wconf 87' lang='lat' dir='ltr'><strong>B.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1487 4675 1647 4744; x_wconf 70' lang='lat' dir='ltr'><strong>rostrata.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1661 4673 1705 4746; x_wconf 70' lang='lat' dir='ltr'><strong>f.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2462 6244">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2462 6244">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2462 6244; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 2462 6244; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
